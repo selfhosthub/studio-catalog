@@ -1,0 +1,100 @@
+Studio Marketplace Package License
+
+Copyright (c) 2025 Kawika Ohumukini. All rights reserved.
+
+This license governs the use of provider packages, service definitions,
+and templates ("Packages") distributed through the Studio Marketplace.
+Packages are add-ons that extend the Studio platform. The Studio platform
+itself is licensed separately under the Studio Use License.
+
+
+1. PERMITTED USE
+
+You may:
+
+  (a) Install and use Packages on your own Studio deployment.
+
+  (b) Modify Packages for your own use on your own deployment.
+
+  (c) Use Packages to deliver services to your customers through your
+      Studio deployment.
+
+  (d) Create, sell, and distribute workflow configurations, templates,
+      and automations that reference Packages. These are your
+      intellectual property.
+
+  (e) Sell any output produced using Packages (images, video, text,
+      data, or any other generated content).
+
+  (f) Contribute improvements back to this project.
+
+
+2. RESTRICTIONS
+
+You may not:
+
+  (a) Redistribute, sideload, bundle, or transfer Packages to any
+      Studio deployment other than your own. Each deploying party must
+      obtain Packages directly from the official Studio Marketplace.
+
+  (b) Publish Packages or derivative works to competing marketplaces,
+      package registries, or distribution channels.
+
+  (c) Sublicense or sell Packages as standalone products or components.
+
+  (d) Remove or alter any copyright, trademark, or license notices
+      included in the Packages.
+
+  (e) You may not use Marketplace Packages to offer a hosted service 
+      whose primary purpose is to provide Studio or Studio-equivalent 
+      functionality to third parties.
+
+For clarity: sharing a workflow configuration that references a Package
+is permitted. Sharing the Package itself is not. A recipient of a shared
+workflow must obtain required Packages independently from the official
+Studio Marketplace.
+
+
+3. ACCESS TIERS
+
+  (a) Basic tier Packages are freely available through the public
+      catalog (studio-catalog).
+
+  (b) Advanced tier Packages require a valid marketplace membership
+      and are distributed through the token-gated repository
+      (studio-marketplace).
+
+  (c) Marketplace access and Package entitlements are non-transferable
+      between deploying parties.
+
+
+4. TRADEMARKS
+
+"Studio," "Self-Host Studio," "Self-Host Hub," and associated logos and
+marks are trademarks of the copyright holder. Nothing in this license
+grants the right to use these names or marks as part of a product name,
+company name, or primary branding.
+
+
+5. CONTRIBUTIONS
+
+Contributions to Packages in this repository are assigned to the
+copyright holder and their successors and assigns. By submitting a
+contribution, you agree to this assignment and represent that you have
+the right to make the contribution.
+
+
+6. NO WARRANTY
+
+THE PACKAGES ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHORS, COPYRIGHT HOLDERS, OR CONTRIBUTORS BE
+LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION
+WITH THE PACKAGES OR THE USE OR OTHER DEALINGS IN THE PACKAGES.
+
+Operators are solely responsible for compliance with applicable laws and
+third-party service terms when using Packages. See LEGAL.md in the
+studio-app repository for detailed operator obligations.
